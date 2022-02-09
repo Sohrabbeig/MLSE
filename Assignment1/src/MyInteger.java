@@ -8,7 +8,8 @@ public class MyInteger {
     @Override
     public boolean equals(Object other) {
         if (other instanceof MyInteger) {
-            return true;
+            MyInteger o = (MyInteger) other;
+            return this.value == o.value;
         }
         return false;
     }
