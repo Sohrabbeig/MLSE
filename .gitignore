@@ -4,6 +4,4 @@ Assignment*/papers/
 Assignment3/file/
 Assignment3/asg3.zip
 Assignment3/rnn-many-to-one-ltr.png
-Assignment3/util.cpython-37.pyc
-Assignment3/util.cpython-38.pyc
-Assignment3/util.cpython-39.pyc
+Assignment3/util.cpython-3*.pyc
